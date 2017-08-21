@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/gitjcc/rtree/issues"
   },
-  "homepage": "https://github.com/gitjcc/rtree#readme"
+  "homepage": "https://github.com/gitjcc/rtree#readme",
+  "devDependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0"
+  }
 }
